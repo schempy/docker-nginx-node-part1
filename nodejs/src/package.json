@@ -1,0 +1,9 @@
+{
+  "name": "docker-nodejs",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Node.js using docker",
+  "dependencies": {
+    "express": "^4.12.0"
+  }
+}
